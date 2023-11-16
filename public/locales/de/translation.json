@@ -3,11 +3,11 @@
     "companyName": "Ökoheim",
     "companyPhone": "01512 0580348",
     "email": "kontakt@ökoheim.com",
-    "companyAddress": "Georgstaße 38, 30159 Hannover",
+    "companyAddress": "Georgstraße 38, 30159 Hannover",
     "companyAccounts": "PL 12 1234 1234 1234 1234 1234 1234 1234\nSWIFT/BIC: PLXMBK"
   },
   "contact": {
-    "mapLocation": "Georgstaße 38, 30159 Hannover",
+    "mapLocation": "Georgstraße 38, 30159 Hannover",
     "title": "Kontakt",
     "email": "E-Mail",
     "emailPlaceholder": "Ihre E-Mail",
@@ -33,12 +33,12 @@
     "support": "Kundendienst"
   },
   "hero": {
-    "slogan": "Nachhaltige Heizungladen",
-    "contactUs": "Kontaktiere Uns"
+    "slogan": "Nachhaltige Heizungsanlagen",
+    "contactUs": "Kontaktieren Sie Uns"
   },
   "aboutUs": {
     "title": "Über Uns",
-    "text": "ÖKOHEIM ist ein deutsches Unternehmen mit polnischen Wurzeln. Seit 2014 sind wir kontinuierlich auf dem polnischen Sanitärmarkt tätig, zunächst als Planungsbüro für Sanitärinstallationen. \nDas dynamische Wachstum und die Marktnachfrage haben unser Geschäft in Richtung Contracting getrieben, sodass wir seit 2020 in der Installation von Wärmepumpen, Photovoltaikanlagen, Klima- und Lüftungsanlagen sowie Wasser- und Abwasseranlagen für unsere Kunden tätig sind. 2022 haben wir unseren Tätigkeitsbereich über Polen hinaus erweitert. \nSeitdem haben wir viele Modernisierungen bestehender Kesselanlagen mit modernen hydraulischen Systemen auf Basis von Vaillant und Mitsubishi Wärmepumpen erfolgreich abgeschlossen.",
+    "text": "ÖKOHEIM ist ein deutsches Unternehmen mit polnischen Wurzeln. Seit 2014 sind wir kontinuierlich auf dem polnischen Sanitärmarkt tätig, zunächst als Planungsbüro für Sanitärinstallationen. \nDas dynamische Wachstum und die Marktnachfrage haben unser Geschäft in Richtung Contracting getrieben, sodass wir seit 2018 in der Installation von Wärmepumpen, Photovoltaikanlagen, Klima- und Lüftungsanlagen sowie Wasser- und Abwasseranlagen für unsere Kunden tätig sind. 2022 haben wir unseren Tätigkeitsbereich über Polen hinaus erweitert. \nSeitdem haben wir viele Modernisierungen bestehender Kesselanlagen mit modernen hydraulischen Systemen auf Basis von Vaillant und Mitsubishi Wärmepumpen erfolgreich abgeschlossen.",
     "mainImageDescription": "Wärmepumpen",
     "image1Description": "Wärmepumpen",
     "image2Description": "Wärmepumpen",
@@ -52,10 +52,10 @@
   "footer": {
     "person1Name": "Tomasz Boloz",
     "person1Position": "Firmeninhaber",
-    "person1Education": "Dipl.-Ing. Sanitar-Heizung-Luftung",
+    "person1Education": "Dipl.-Ing. Sanitär-Heizung-Lüftung",
     "person1Phone": "+49 1512 05 80 348",
     "person2Name": "Patrycja Ledwon-Boloz",
-    "person2Position": "Betreibsleiter",
+    "person2Position": "Betriebsleiterin",
     "person2Education": "Dipl.-Ing. Konstruktion",
     "person2Phone": "+48 696 016 177",
     "partnersTitle":  "Partner"
@@ -76,13 +76,13 @@
     },
     "project2": {
       "address": "30938 Hannover, Deutschland",
-      "author": "Gustav Shafer",
+      "author": "Gustav Shäfer",
       "testimonial": "Ein zu empfehlendes Unternehmen. Kein Problem bei der Kontaktaufnahme mit dem Kundendienst. Die Installationsarbeiten wurden professionell, sauber und schnell ausgefuhrt. Ich bin sehr zufrieden.",
       "stars": "5"
     },
     "project3": {
       "address": "48167 Munster, Deutschland",
-      "author": "Marcus Backer",
+      "author": "Marcus Bäcker",
       "testimonial": "Ein empfehlenswertes Unternehmen :) In jeder Phase, von der Beratung, wo man anfangen soll, was man auswählen soll, bis zur Installation und den abschließenden Arbeiten. Man konnte auf gute Zusammenarbeit und Beratung zählen. Ich empfehle besonders Herrn Tomasz Boloz - sehr höflich und hilfsbereit. Professioneller Umgang mit dem Kunden.",
       "stars": "5"
     },
@@ -94,7 +94,7 @@
     },
     "project5": {
       "address": "31134 Hildsheim, Deutschland",
-      "author": "Eric Miller",
+      "author": "Eric Müller",
       "testimonial": "Wir sind sehr zufrieden mit der Professionalität und dem Engagement. Von der Planungsberatung über die Installation und die kompetente, geduldige Einweisung in die Wärmepumpe bis hin zur Erlangung der BAFA-Förderung. Herzlichen Glückwunsch an den Geschäftsführer für so ein Team.",
       "stars": "5"
     },
